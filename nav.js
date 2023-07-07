@@ -53,25 +53,6 @@ template.innerHTML = `<header>
                 </nav>
             </div>
             </section>
-        <section class="front_page">
-            <div class="home_cont1">
-                <p>What is Lorem</p>
-                <h1>Lorem Ipsum is simply text of the printing</h1>
-                <h5>All are with radiantly generous client experiences and custom made to meet your specific
-                    industry
-                    needs.</h5>
-                <button>Get in touch</button>
-                <div class="thumb">
-                    <div class="inline" id="thumb_first">
-                        <img src="./Images/thumbs-up (2).svg" alt="thumb" />
-                        <h4>100% SATISFIED</h4>
-                    </div>
-                    <div class="inline">
-                        <img src="./Images/shield (1).svg" alt="thumb" />
-                        <h4>100% SATISFIED</h4>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 <Headers>`;
 nav.appendChild(template.content);
